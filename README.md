@@ -1,4 +1,54 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou a Rayssa Sato</h1>
+<h2 align="center">💻 Estudante de ADS | Foco em Banco de Dados & Governança de TI</h2>
+
+<p align="center">
+  <a href="https://https://www.linkedin.com/in/rayssa-sato-1389a5242/" target="_blank">🔗 LinkedIn</a> |
+  <a href="mailto:Yanagawarayssa@gmail.com">📧 E-mail</a>
+</p>
+
+---
+
+## 🛠 Habilidades
+
+- **Linguagens:** Python 🐍 | SQL 🗄 | HTML/CSS 🌐  
+- **Banco de Dados:** Oracle, MySQL, PostgreSQL  
+- **Ferramentas:** Git & GitHub, VS Code, Excel  
+- **Áreas de interesse:** Governança de TI, Modelagem de Dados, Desenvolvimento e Banco de Dados  
+
+---
+
+## 📂 Projetos Destacados
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|------------|
+| Filtro de Pokémons | Filtra dados de Pokémon de uma planilha Excel | Python, Pandas |
+| Calculadora de Juros Compostos | Calcula juros simples e compostos e gera relatórios | Python, SQL |
+| Auditoria Simples em Logs | Simula auditoria de acessos e gera alertas | Python |
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&theme=radical" alt="Sato GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satoray&theme=radical" alt="Sato GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Objetivo
+
+- Desenvolver habilidades em **Banco de Dados e Governança de TI**  
+- Criar **projetos práticos e portfólio sólido**  
+- Contribuir para **repositórios open-source e comunidade**  
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+
 
 <!--
 **Satoray/Satoray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
