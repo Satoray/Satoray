@@ -2,7 +2,7 @@
 <h2 align="center">💻 Estudante de ADS | Foco em Banco de Dados & Governança de TI</h2>
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/rayssa-sato-1389a5242/" target="_blank">🔗 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/rayssa-sato-1389a5242/" target="_blank">🔗 LinkedIn</a> |
   <a href="mailto:Yanagawarayssa@gmail.com">📧 E-mail</a>
 </p>
 
