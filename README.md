@@ -29,10 +29,9 @@
 
 ## (⌐■_■) Estatísticas do GitHub
 
-![test](https://github-readme-stats.vercel.app/api?username=Satoray)
+<img src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true" />
 
-
-## ## ☆ Objetivos
+## ☆ Objetivos
 
 - Desenvolver habilidades em **Banco de Dados e Governança de TI**  
 - Criar **projetos práticos e portfólio sólido**  
