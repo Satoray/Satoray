@@ -1,5 +1,5 @@
 <h1 align="center">(＾▽＾)／ Olá! Eu sou a Rayssa Sato</h1>
-<h2 align="center"> Estudante de ADS | Foco em Banco de Dados & Governança de TI</h2>
+<h2 align="center"> (⌐■_■)Estudante de ADS | Foco em Banco de Dados & Governança de TI</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rayssa-sato-1389a5242/" target="_blank">🔗 LinkedIn</a> |
@@ -26,10 +26,6 @@
 | Auditoria Simples em Logs | Simula auditoria de acessos e gera alertas | Python |
 
 ---
-
-## (⌐■_■) Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true" />
 
 ## ☆ Objetivos
 
