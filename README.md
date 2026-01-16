@@ -12,7 +12,7 @@
 
 - **Linguagens:** Python 🐍 | SQL 🗄 | HTML/CSS 🌐  
 - **Banco de Dados:** Oracle, MySQL, PostgreSQL  
-- **Ferramentas:** Git & GitHub, VS Code, Excel  
+- **Ferramentas:** VS Code, Excel  
 - **Áreas de interesse:** Governança de TI, Modelagem de Dados, Desenvolvimento e Banco de Dados  
 
 ---
