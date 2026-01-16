@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 Habilidades
+## ✧ Habilidades
 
 - **Linguagens:** Python 🐍 | SQL 🗄 | HTML/CSS 🌐  
 - **Banco de Dados:** Oracle, MySQL, PostgreSQL  
@@ -17,7 +17,7 @@
 
 ---
 
-## 📂 Projetos Destacados
+## ✧ Projetos Destacados
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|------------|
@@ -27,19 +27,17 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## ## (⌐■_■) Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&theme=radical" alt="Sato GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&theme=default&hide_border=true" 
+    alt="Estatísticas do GitHub" 
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satoray&theme=radical" alt="Sato GitHub Streak" />
-</p>
 
----
-
-## 🎯 Objetivo
+## ## ☆ Objetivos
 
 - Desenvolver habilidades em **Banco de Dados e Governança de TI**  
 - Criar **projetos práticos e portfólio sólido**  
