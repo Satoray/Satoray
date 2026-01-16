@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá! Eu sou a Rayssa Sato</h1>
-<h2 align="center">💻 Estudante de ADS | Foco em Banco de Dados & Governança de TI</h2>
+<h1 align="center">(＾▽＾)／ Olá! Eu sou a Rayssa Sato</h1>
+<h2 align="center"> Estudante de ADS | Foco em Banco de Dados & Governança de TI</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rayssa-sato-1389a5242/" target="_blank">🔗 LinkedIn</a> |
@@ -27,14 +27,15 @@
 
 ---
 
-## ## (⌐■_■) Estatísticas do GitHub
+## (⌐■_■) Estatísticas do GitHub
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&theme=default&hide_border=true" 
-    alt="Estatísticas do GitHub" 
+    src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&hide_border=true" 
+    alt="Estatísticas do GitHub"
   />
 </p>
+
 
 
 ## ## ☆ Objetivos
