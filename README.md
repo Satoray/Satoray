@@ -29,12 +29,7 @@
 
 ## (⌐■_■) Estatísticas do GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&hide_border=true" 
-    alt="Estatísticas do GitHub"
-  />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&hide_border=true)
 
 
 
