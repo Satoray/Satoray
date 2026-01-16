@@ -29,9 +29,9 @@
 
 ## (⌐■_■) Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&hide_border=true)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satoray&show_icons=true&hide_border=true">
+</p>
 
 ## ## ☆ Objetivos
 
